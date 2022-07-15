@@ -202,3 +202,5 @@ int main()
 	delete[]array;
 	return 0;
 }
+//code
+//code1
