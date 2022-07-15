@@ -202,4 +202,3 @@ int main()
 	delete[]array;
 	return 0;
 }
-// 123456
